@@ -29,8 +29,8 @@ pip install -r requirements.txt
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/PranitThombare/
-   cd 
+   git clone https://github.com/PranitThombare/Vission-Assist
+   cd Vission-Assist
    ```
 
 2. Run the main script:
